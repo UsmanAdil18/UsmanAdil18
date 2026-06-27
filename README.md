@@ -92,8 +92,8 @@ Detail-oriented and analytical CS graduate with a strong foundation in **data an
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MUsman18&show_icons=true&theme=dark&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUsman18&layout=compact&theme=dark&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=UsmanAdil18&show_icons=true&theme=dark&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsmanAdil18&layout=compact&theme=dark&hide_border=true" height="160"/>
 </p>
 
 ---
