@@ -63,7 +63,7 @@ Detail-oriented and analytical CS graduate with a strong foundation in **data an
 | 📊 **Accenture Social Media Analysis** | Cleaned & analyzed 7 datasets to uncover content trends for a social media client | Python, Excel, PowerPoint |
 | 🦠 **COVID-19 Screening App** | Data-driven symptom & risk screening tool | Python |
 
-🔗 **[View all projects →](https://github.com/MUsman18?tab=repositories)**
+🔗 **[View all projects →](https://github.com/UsmanAdil18?tab=repositories)**
 
 ---
 
